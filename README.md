@@ -9,7 +9,7 @@ Required Libraries:
 * [Boost](https://www.boost.org/) - For command lind parsing
 
 ## Installation
-I used a conda environment to install the dependencies.
+I used a [conda environment](https://docs.conda.io/projects/miniconda/en/latest/) to install the dependencies.
 My cmake file is not robust, it was specifically designed to look for a conda environment.
 The steps I use to install the environment.
 ```bash
