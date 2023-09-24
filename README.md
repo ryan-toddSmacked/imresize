@@ -33,7 +33,6 @@ Any advanced cmake users, Pull request are welcome.
 For any other changes, please open an issue first to discuss what you feel should be changed.
 
 ## License
-The [MIT License](https://choosealicense.com/licenses/mit/) for this project is strictly in reference to my C++ file [imresize.cpp](https://github.com/ryan-toddSmacked/imresize/blob/main/imresize.cpp).
 
-The header files provided by [OpenCV](https://opencv.org/) and [Boost](https://www.boost.org/) shall follow their provided licenses.
+[MIT](https://choosealicense.com/licenses/mit/)
 
