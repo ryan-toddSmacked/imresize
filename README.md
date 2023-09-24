@@ -10,7 +10,7 @@ Required Libraries:
 
 Build Essentials:
 * C++11 or higher
-* [cmake](https://cmake.org/)
+* [CMake](https://cmake.org/)
 
 
 ## Installation
