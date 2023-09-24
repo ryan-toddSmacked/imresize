@@ -22,5 +22,9 @@ A better thing to implement in the cmake file, is to allow the user to provide a
 for these dependencies, instead of forcing the cmake to look for the libraries in the $(pwd)/env
 directory.
 
-
+## Usage
+```bash
+./imresize -i <input image> -o <output image> --scale 0.8 # Scale the input image by a factor of 80% in rows and columns
+./imresize -i <input image> -o <output image> --width 2000 --height 50 # Resize the image to have 2000 columns and 50 rows.
+```
 
