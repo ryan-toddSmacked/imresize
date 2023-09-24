@@ -1,5 +1,7 @@
 # imresize
 C++ application that resizes images using OpenCV functions.
+This application follows the KISS epistemology.
+KISS - "Keep it simple stupid"
 
 ## Dependencies
 Required Libraries:
