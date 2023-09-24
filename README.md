@@ -8,6 +8,11 @@ Required Libraries:
 * [OpenCV](https://opencv.org/) - For image loading/processing/writing
 * [Boost](https://www.boost.org/) - For command lind parsing
 
+Build Essentials:
+* C++11 or higher
+* [cmake](https://cmake.org/)
+
+
 ## Installation
 I used a [conda environment](https://docs.conda.io/projects/miniconda/en/latest/) to install the dependencies.
 My cmake file is not robust, it was specifically designed to look for a conda environment.
