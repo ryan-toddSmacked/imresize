@@ -6,7 +6,7 @@ KISS - "Keep it simple stupid"
 ## Dependencies
 Required Libraries:
 * [OpenCV](https://opencv.org/) - For image loading/processing/writing
-* Boost - For command lind parsing
+* [Boost](https://www.boost.org/) - For command lind parsing
 
 ## Installation
 I used a conda environment to install the dependencies.
@@ -33,4 +33,5 @@ Any advanced cmake users, Pull request are welcome.
 For any other changes, please open an issue first to discuss what you feel should be changed.
 
 ## License
-
+You can modify my C++ file [imresize.cpp]() all you want.
+[MIT](https://choosealicense.com/licenses/mit/)
