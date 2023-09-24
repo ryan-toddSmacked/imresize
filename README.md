@@ -29,8 +29,7 @@ directory.
 ```
 
 ## Contributing
-Any advanced cmake users, Pull request are welcome.
-For any other changes, please open an issue first to discuss what you feel should be changed.
+Pull request are welcome, the cmake file could definetly be better.
 
 ## License
 
