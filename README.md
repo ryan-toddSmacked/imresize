@@ -15,6 +15,9 @@ conda create --prefix $(pwd)/env
 conda activate $(pwd)/env
 conda install -c conda-forge opencv boost
 ```
+A better thing to implement in the cmake file, is to allow the user to provide a base directory
+for these dependencies, instead of forcing the cmake to look for the libraries in the $(pwd)/env
+directory.
 
 
 
